@@ -14,4 +14,4 @@ Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 - Elemento 2
 - Elemento 3
 
-![foto](C:\Users\computadora\Desktop\2024 inv fin\img21.jpg)
+![foto22](img22.jpg)
