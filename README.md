@@ -8,11 +8,11 @@ Ese [proyecto][web] nació porque me encanta el país y quería compartirlo con 
 
 [web]: https://helenizarte.com
 
-## Título
+<!--## Título
 ### Subtítulo
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 
 - Elemento 1
 - Elemento 2
-- Elemento 3
-
+- Elemento 3 -->
+FIN.
